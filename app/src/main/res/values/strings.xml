@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">厨神</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_stuff">主料</string>
+    <string name="assist_stuff">辅料</string>
+    <string name="method">制作方式</string>
+    <string name="tips">温馨小贴士</string>
+    <string name="score">美味指数</string>
+    <string name="good_detail_buy_num">数量</string>
+    <string name="state">状态</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="login_bg_style_color">#f7efe4</color>
+    <color name="login_edit_text_style">#ccaaae</color>
+    <color name="login_btn_text_style">#ff0000</color>
+    <color name="layout_blue">#cc99ffff</color>
+    <color name="title_text">#1296db</color>
+    <color name="blue_light">#0099ff</color>
+    <color name="tab_text_press">#1296db</color>
+    <color name="tab_text_normal">#bfbfbf</color>
+    <color name="item_shop_bg">#FFe6e6e6</color>
+    <color name="item_click_bg">#FFe6e6e6</color>
+    <color name="separation">#FFe6e6e6</color>
+    <color name="bg_color">#f1f1f1</color>
+    <color name="text_color_gray">#c6c6c6</color>
+    <color name="text_color_red">#ff4c4c</color>
+    <color name="text_color_black">#363636</color>
+    <color name="view_color_gray">#d3f3f3</color>
+</resources>
